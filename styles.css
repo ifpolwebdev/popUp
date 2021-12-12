@@ -113,11 +113,11 @@ form button:hover {
   }
 }
 
-/* .close {
+.close {
   position: absolute;
   top: 5px;
   right: 10px;
   color: var(--color-primary);
   font-size: 2rem;
   cursor: pointer;
-} */
+}
